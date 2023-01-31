@@ -43,3 +43,22 @@ We are given a hotel bookings dataset. This dataset contains booking information
 - total_of_special_requests: total no. of special request.
 - reservation_status: Whether a customer has checked out or canceled,or not showed 
 - reservation_status_date: Date of making reservation status.
+
+# Exploratory Data Analysis
+
+From where the most guests are coming?
+
+which hotels are good for babies?
+
+which month has more booking?
+
+which hotels have more parking spaces?
+
+which hotels has more repeated customers?
+
+
+
+
+
+
+
